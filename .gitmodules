@@ -73,9 +73,6 @@
 [submodule "external/libmali"]
 	path = external/libmali
 	url = https://github.com/geniatech666/libmali.git
-[submodule "external/camera_engine_rkaiq"]
-	path = external/camera_engine_rkaiq
-	url = https://github.com/geniatech666/camera_engine_rkaiq.git
 [submodule "external/v4l2mpp"]
 	path = external/v4l2mpp
 	url = https://github.com/geniatech666/v4l2mpp.git
@@ -91,3 +88,6 @@
 [submodule "external/alsa-config"]
 	path = external/alsa-config
 	url = https://github.com/geniatech666/alsa-config.git
+[submodule "external/camera_engine_rkaiq"]
+	path = external/camera_engine_rkaiq
+	url = https://github.com/geniatech666/camera_engine_rkaiq.git
