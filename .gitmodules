@@ -85,9 +85,9 @@
 [submodule "external/alsa-config"]
 	path = external/alsa-config
 	url = https://github.com/geniatech666/alsa-config.git
-[submodule "external/camera_engine_rkaiq"]
-	path = external/camera_engine_rkaiq
-	url = https://github.com/geniatech666/camera_engine_rkaiq.git
 [submodule "external/mpp"]
 	path = external/mpp
 	url = https://github.com/geniatech666/mpp.git
+[submodule "external/camera_engine_rkaiq"]
+	path = external/camera_engine_rkaiq
+	url = https://github.com/geniatech666/camera_engine_rkaiq.git
